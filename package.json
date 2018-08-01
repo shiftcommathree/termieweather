@@ -1,0 +1,15 @@
+{
+  "name": "termy-weather",
+  "version": "1.0.0",
+  "description": "to find the weather from the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hani Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.72.0",
+    "yargs": "^4.7.1"
+  }
+}
